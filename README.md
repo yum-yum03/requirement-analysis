@@ -9,3 +9,9 @@ Requirement Analysis is the process of identifying, documenting, and validating 
 2. **Resource Efficiency**: Prioritizes essential features early.  
 3. **Scope Control**: Minimizes unplanned changes during development.
 
+## Key Activities in Requirement Analysis  
+- **Requirement Gathering**: Collect needs via interviews/surveys.  
+- **Requirement Elicitation**: Refine needs through prototyping.  
+- **Documentation**: Create specs/use cases.  
+- **Analysis & Modeling**: Structure requirements (e.g., diagrams).  
+- **Validation**: Confirm accuracy with stakeholders.
