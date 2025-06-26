@@ -15,3 +15,10 @@ Requirement Analysis is the process of identifying, documenting, and validating 
 - **Documentation**: Create specs/use cases.  
 - **Analysis & Modeling**: Structure requirements (e.g., diagrams).  
 - **Validation**: Confirm accuracy with stakeholders.
+
+## Types of Requirements  
+### Functional Requirements  
+- *What* the system does (e.g., "Users can search properties by location").  
+
+### Non-Functional Requirements  
+- *How* the system performs (e.g., "Page load time <2 seconds").
